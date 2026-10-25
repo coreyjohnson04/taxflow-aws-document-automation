@@ -71,7 +71,8 @@ I removed it and deployed the corrected function.
 
 ## Video Walkthrough
 
-YouTube walkthrough link will be added here.
+[Watch the full TaxFlow walkthrough on YouTube](https://youtu.be/uyG_joi0p2Q)
+- Im currently working on the voice over for this video.
 
 ## Project Scope
 
